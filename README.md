@@ -1,7 +1,7 @@
 # Computer Vision in Remote Sensing
 ## Archeology
 ### Olga Tambazidis
-![](https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)
+
 ![alt text](https://socks-studio.com/img/blog/hp-058_Topography-800x600.jpg)
 
 Archeologists of all specializations and research focuses are integrating the advancing computer vision technologies such as deep learning, 3D visualization and segmentation. Some examples of these technologies in practice are detecting and visualizing structures that are hidden beneath the earth’s surface, creating replicates of archaeological objects and identifying different types of archaeological structures. The primary goal of using these advanced technologies is to classify and visualize archeological objects and structures in multiple formats. 
